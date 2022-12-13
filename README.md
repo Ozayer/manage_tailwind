@@ -3,9 +3,11 @@ This is a very basic single and static web page, created to apply useful tailwin
 Some of the classes that are used in this project are:
 
 container,
-flex,
+flex, flex-1, 
 flex-col, flex-row,
-hover, hidden, block, rounded-l-full, rounded-full
+hover, hidden, block, rounded, rounded-l-full, rounded-full,
+justify-between, justify-center, justify-left, justify-round
+outiline-none
 
 Text Classes: text-4xl, underline, font-bold
 
